@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l __ls__ | awk '{print $1, $2, $3, $4, $5, $9}'
+ln -s /bin/ls __ls__
