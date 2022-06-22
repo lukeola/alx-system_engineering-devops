@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lhaF | grep ^l
+ls -la
